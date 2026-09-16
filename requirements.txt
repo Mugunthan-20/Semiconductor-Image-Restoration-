@@ -1,0 +1,6 @@
+numpy==1.24.3
+torch==2.0.1
+torchvision==0.15.2
+matplotlib==3.7.1
+Pillow==10.0.0
+pathlib2==2.3.7.post1
